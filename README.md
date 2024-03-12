@@ -1,1 +1,2 @@
-# getrushapp.com
+# amul.in
+## subdomain takeover
